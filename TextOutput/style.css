@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+.page {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.section {
+	display: flex;
+	justify-content: space-between;
+}
+
+.section div {
+	padding: 6px;
+	min-width: 200px;
+}
+
+.news {
+	border-bottom: 2px solid red;
+}
